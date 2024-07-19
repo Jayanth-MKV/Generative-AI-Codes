@@ -16,5 +16,3 @@ This repository contains a step-by-step guide on how to pre-train a Large Langua
 ## Acknowledgements
 
 Special thanks to DeepLearning.AI for their invaluable resources and inspiration in creating this tutorial.
-
-I hope this README structure serves your needs. Remember to customize it further with specific details about your repository, such as installation instructions, any prerequisites, and more detailed descriptions of each notebook if needed.
